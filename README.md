@@ -6,7 +6,7 @@ This assignment focusses on the following points :
 2. Dataset size must have rows between 5k and 30k.
 3. Divide the dataset into 70-30 for training and testing with 10 different samples.
 4. Optimise the SVM for every sample with 1000 iterations and report the best parameters.
-5. Plot the convergence graph for the sample ehose accuracy is maximum.
+5. Plot the convergence graph for the sample whose accuracy is maximum.
 
 #
 # DATASET
