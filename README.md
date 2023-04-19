@@ -7,9 +7,9 @@ This assignment focusses on the following points :
 3. Divide the dataset into 70-30 for training and testing with 10 different samples.
 4. Optimise the SVM for every sample with 1000 iterations and report the best parameters.
 5. Plot the convergence graph for the sample ehose accuracy is maximum.
-#
 
-#DATASET
+#
+# DATASET
 The data has been normalized using the Z- Normalisation method and divide into 2 datasets : a training set containing 10429 samples and a test set containing the 10437 samples.
 
 Attribute Information:
@@ -27,7 +27,7 @@ Attribute Information:
 **Class: A, B, C, D, E, F, G, H, I, W, X, Y**<br>
 
 #
-#Methodology
+# Methodology
 
 The dataset is split into training and testing set for 10 times and the following SVC classifier hyperparameter are selected for best accuracy:
 
@@ -55,6 +55,7 @@ The dataset is split into training and testing set for 10 times and the followin
 
 #
 # GRAPH
+![image](https://user-images.githubusercontent.com/87938633/233173031-0418e339-73cd-448e-86ed-89a51fff6f6f.png)
 
 #
 # RESULT
