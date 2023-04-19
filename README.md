@@ -27,7 +27,7 @@ Attribute Information:
 **Class: A, B, C, D, E, F, G, H, I, W, X, Y**<br>
 
 #
-# Methodology
+# METHODOLOGY
 
 The dataset is split into training and testing set for 10 times and the following SVC classifier hyperparameter are selected for best accuracy:
 
